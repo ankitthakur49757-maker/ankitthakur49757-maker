@@ -16,6 +16,6 @@ I'm currently working on a price tracker project using Excel, SQL and Power BI<b
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ankitthakur49757-maker&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
